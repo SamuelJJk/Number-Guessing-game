@@ -33,3 +33,10 @@
     width: 100%;
     color: white;
 }
+.myPicks{
+    border: solid green;
+    margin: 1em;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
