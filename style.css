@@ -1,0 +1,35 @@
+.title{
+    border: solid black;
+    margin: 1em;
+    text-align: center;
+}
+.secondContainer{
+    display: flex;
+    justify-content: center;
+}
+.counter{
+    border: solid black;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    margin: 1em 10em;
+}
+.start{
+    background-color: white;
+    width: 100%;
+    color: black;
+    border-radius: 5px
+}
+.start:hover{
+    background-color: blue;
+    width: 100%;
+    color: white;
+}
